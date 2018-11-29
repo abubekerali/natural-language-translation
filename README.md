@@ -63,7 +63,7 @@ The project description and web-presentation is located on https://sonyasha.gith
 - Malvica Mathur: language model training, design, web-presentation
 - Ed Ali: language model training, AWS machine learning application
 - Sonya Smirnova: data preparation, haiku model training, application developing, front-end, back-end, Heroku deployment
-- Abubeker Ali: language model adjusting, web-presentation
+- Abubeker Ali: language model training/adjusting, web-deployment
 
 ## Tools:
 
